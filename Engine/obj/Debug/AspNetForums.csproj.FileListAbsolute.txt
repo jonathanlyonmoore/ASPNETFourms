@@ -1,0 +1,7 @@
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2012\Projects\Web\AspNetForums\AspNetForums\bin\AspNetForums.dll
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2012\Projects\Web\AspNetForums\AspNetForums\bin\AspNetForums.pdb
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2012\Projects\Web\AspNetForums\Engine\obj\Debug\AspNetForums.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2012\Projects\Web\AspNetForums\Engine\obj\Debug\AspNetForums.Controls.SearchPagerStyle.resources
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2012\Projects\Web\AspNetForums\Engine\obj\Debug\AspNetForums.csproj.GenerateResource.Cache
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2012\Projects\Web\AspNetForums\Engine\obj\Debug\AspNetForums.dll
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2012\Projects\Web\AspNetForums\Engine\obj\Debug\AspNetForums.pdb

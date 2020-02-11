@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetForums", "AspNetForums.csproj", "{E663538D-8A0A-4CE8-8232-2576D4DC2B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E663538D-8A0A-4CE8-8232-2576D4DC2B0D}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{E663538D-8A0A-4CE8-8232-2576D4DC2B0D}.Debug|Default.Build.0 = Debug|Any CPU
+		{E663538D-8A0A-4CE8-8232-2576D4DC2B0D}.Release|Default.ActiveCfg = Release|Any CPU
+		{E663538D-8A0A-4CE8-8232-2576D4DC2B0D}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

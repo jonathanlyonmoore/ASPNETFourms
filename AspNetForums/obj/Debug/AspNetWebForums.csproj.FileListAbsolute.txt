@@ -1,0 +1,5 @@
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2012\Projects\Web\AspNetForums\AspNetForums\bin\Debug\StarterForum.dll
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2012\Projects\Web\AspNetForums\AspNetForums\bin\Debug\StarterForum.pdb
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2012\Projects\Web\AspNetForums\AspNetForums\obj\Debug\AspNetWebForums.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2012\Projects\Web\AspNetForums\AspNetForums\obj\Debug\StarterForum.dll
+C:\Users\Jonathan_Moore\Documents\Visual Studio 2012\Projects\Web\AspNetForums\AspNetForums\obj\Debug\StarterForum.pdb
