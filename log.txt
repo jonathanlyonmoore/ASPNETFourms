@@ -1,2 +1,0 @@
-7:19:43 PM Tuesday, April 23, 2013: [Checking system requirements]
-7:19:43 PM Tuesday, April 23, 2013: [Pass] Detected a local instance of SQL Server.
